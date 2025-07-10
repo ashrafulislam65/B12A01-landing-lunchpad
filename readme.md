@@ -1,14 +1,10 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-001 😎
+## 🌟 WELCOME TO My Landing-Launchpad Website 😎
 
-### 📅 Deadline For 60 marks: 11th July, 2025 (11:59 pm ⏱️)
 
-### 📅 Deadline For 50 marks: 12th July, 2025 (11:59 pm ⏱️)
-
-### 📅 Deadline For 30 marks:\*\* Any time after 12th July.
 
 ---
 
-## ✅ Main Requirements (50 Marks)
+## ✅ Main Requirements 
 
 ### 1. Navbar Section
 
@@ -17,14 +13,14 @@
 
 ---
 
-### 2. Banner Section (10 Marks)
+### 2. Banner Section 
 
 - **Heading** in the center. (3)
 - **Stay Focused** button in the center. (3)
 
 ---
 
-## 🚩 The Navbar and Banner will have an Background Image
+## 🚩 The Navbar and Banner  have an Background Image
 
 <img width="100%" src="./ui/banner.png">
 
@@ -51,7 +47,7 @@
 
 ---
 
-### 5. Let’s Get In Touch Section (10 Marks)
+### 5. Let’s Get In Touch Section 
 
 - Left Side:
   - Section Title
@@ -72,7 +68,7 @@
 
 ## <img width="100%" src="./ui/footer.png">
 
-## 🧪 CHALLENGES (10 Marks)
+## 🧪 CHALLENGES 
 
 ### 7. Users’ Feedback Section
 
@@ -92,40 +88,26 @@
 
 ---
 
-## ❓ Common Queries & Answers
 
-> ❓ আমি কি অন্য ইমেজ ব্যবহার করতে পারবো?  
-> ✅ হ্যা, যেকোন রিলেভ্যান্ট ইমেজ ব্যবহার করা যাবে।
-
-> ❓ আমি কি এলাইনমেন্ট আলাদা ভাবে করে মনের মতো ডিজাইন করতে পারবো?  
-> ❌ না। তোমাকে এলাইনমেন্ট ঠিক রাখতে হবে।
-
-> ❓ আমি কি ডিজাইনে কালার চেঞ্জ করতে পারবো ?  
-> ✅ হ্যা , তুমি চাইলে রিলেভ্যান্ট কালার ব্যবহার করতে পারো।
-
-> ❓ আমাকে কি একদম পারফেক্ট মার্জিন প্যাডিং দিয়ে একদম পিক্সেল পারফেক্ট পেজ বানাতে হবে?  
-> ❌ না। তুমি ফিগমা দেখে নিজের মতো মার্জিন প্যাডিং ব্যবহার করতে পারো।
-
----
 
 ## ⚙️ Technology Stack
 
 - HTML
 - CSS
-- ⚠️ **No frameworks or libraries** allowed.
+- ⚠️ **No frameworks or libraries** are used.
 
 ---
 
 ## 📌 Rules
 
-- ✅ Minimum **5 meaningful commits** required.
+- ✅ Minimum **5 meaningful commits** pushed.
 - ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
 
 ---
 
-## 🔗 What to Submit
+## 🔗 Links 
 
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
+- 📂 **GitHub Repository:https://github.com/ashrafulislam65/B12A01-landing-lunchpad**
+- 🌐 **Live Link:https://ashrafulislam65.github.io/B12A01-landing-lunchpad/**
 
 # Let's Code and Achieve your Dream 🎯
