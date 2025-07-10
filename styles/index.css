@@ -111,78 +111,88 @@
     border-radius: 10px;
     color: rgb(255, 255, 255);
 }
-.action-section-container div button:hover{
+
+.action-section-container div button:hover {
     background-color: yellow;
 
 }
 
 /* productive user section */
-.productive-user{
-     background-color: rgb(245, 248, 255);
+.productive-user {
+    background-color: rgb(245, 248, 255);
 
 
 }
+
 .productive-user-container {
     text-align: center;
     margin-left: 150px;
     margin-right: 150px;
-    
+
     background-color: rgba(78, 71, 255, 0.1);
     padding-top: 50px;
     padding-bottom: 50px;
     border-radius: 24px;
-    
-    
+
+
 }
-.p-user-title{
+
+.p-user-title {
     font-size: 38px;
     color: rgb(37, 36, 50);
 }
 
 .productive-user-container-div {
-    
+
     padding-left: 152px;
     padding-right: 152px;
     padding-top: 40px;
-    
+
     display: flex;
     justify-content: space-between;
 }
-.productive-user-container-div h1{
+
+.productive-user-container-div h1 {
     font-size: 80px;
     color: rgb(78, 71, 255);
 
 }
-.productive-user-container div p{
+
+.productive-user-container div p {
     color: rgba(0, 0, 0, 0.5);
     font-size: 20px;
 
 }
+
 /* Get in Touch section */
-.get-touch-container{
+.get-touch-container {
     display: flex;
     background-color: rgb(245, 248, 255);
     justify-content: space-between;
-     padding-left: 150px;
+    padding-left: 150px;
     padding-right: 150px;
     padding-top: 92.23px;
 }
-.get-touch-container h1{
+
+.get-touch-container h1 {
     padding-top: 200px;
     padding-bottom: 200px;
     width: 528px;
     height: 232px;
     font-size: 97px;
-   
+
 }
-.get-touch-container form{
+
+.get-touch-container form {
     padding-top: 71px;
 }
-.get-touch-container form label{
+
+.get-touch-container form label {
     font-size: 18px;
     margin-bottom: 10px;
 }
-.get-touch-container form input{
+
+.get-touch-container form input {
     width: 497px;
     height: 70px;
     border-radius: 10px;
@@ -190,7 +200,8 @@
     font-size: 20px;
     padding-left: 32px;
 }
-.get-touch-container form textarea{
+
+.get-touch-container form textarea {
     width: 497px;
     height: 135px;
     border-radius: 10px;
@@ -201,7 +212,8 @@
     padding-bottom: 19px;
     padding-top: 10px;
 }
-.get-touch-container form button{
+
+.get-touch-container form button {
     width: 530px;
     height: 62px;
     border-radius: 10px;
@@ -209,29 +221,34 @@
     border-color: white;
     color: rgb(255, 255, 255);
 }
-.get-touch-container form button:hover{
+
+.get-touch-container form button:hover {
     background-color: yellow;
 }
+
 /* footer section */
-.footer-container{
-    
-   
+.footer-container {
+
+
     padding-top: 104px;
     padding-bottom: 104px;
 }
-.footer-container h1{
+
+.footer-container h1 {
     padding-bottom: 8px;
     width: 292px;
     font-size: 100px;
     padding-left: 680px;
     color: rgb(78, 71, 255);
 }
-.footer-container p{
+
+.footer-container p {
     color: rgb(137, 135, 161);
     width: 531px;
     padding-left: 574px;
 }
-.footer-container ul{
+
+.footer-container ul {
     display: flex;
     padding-left: 574px;
     justify-content: space-between;
@@ -239,12 +256,70 @@
     padding-top: 10px;
     list-style-type: none;
 }
-.footer-container ul a{
+
+.footer-container ul a {
     text-decoration: none;
-    color:  rgb(137, 135, 161);
+    color: rgb(137, 135, 161);
 }
+
 /* button effect */
 button:hover {
-  background-color: yellow;
-  
+    background-color: yellow;
+
+}
+
+/* user feedback */
+.user-feedback-section-contaiter{
+     background-color: rgb(245, 248, 255);
+}
+.user-feedback-section-contaiter h1 {
+    font-size: 42px;
+    text-align: center;
+    padding-top: 137px;
+    padding-bottom: 50px;
+    color: rgb(37, 36, 50);
+    
+    
+
+}
+
+.card-container {
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    justify-content: space-between;
+    gap: 10px;
+    padding-bottom: 137px;
+}
+
+.card {
+    padding: 24px;
+    width: 366.67px;
+    height: 243px;
+    border: 1px solid rgb(242, 237, 237);
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.5);
+}
+.card i {
+    color: yellow;
+}
+.card h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
+}
+.card-p1{
+    padding-bottom: 20px;
+}
+.card img{
+    border-radius: 50%;
+}
+
+.avater-container {
+    display: flex;
+    gap: 10px;
+}
+.avater-container p{
+    font-size: 16px;
+    color: rgb(117, 117, 117)
 }
