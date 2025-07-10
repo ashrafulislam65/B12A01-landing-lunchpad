@@ -325,3 +325,43 @@ button:hover {
     font-size: 16px;
     color: rgb(117, 117, 117)
 }
+/* focus-better */
+.focus-better-section{
+   background-color: rgb(245, 248, 255);
+}
+.focus-better-section-container{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: white;
+    border-radius: 10px;
+    padding-bottom: 71px;
+    text-align: center;
+
+}
+.focus-better-section-container h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.focus-better-section-container p{
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding-bottom: 20px;
+}
+.focus-better-section-container button{
+    width: 195px;
+    height: 48px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color:  rgb(78, 71, 255);
+    border-color: white;
+    color: rgb(255, 255, 255);
+}
+.focus-better-section-container button:hover{
+    background-color: yellow;
+
+}
+.focus-better-section-container img{
+    border-radius: 48px;
+}
