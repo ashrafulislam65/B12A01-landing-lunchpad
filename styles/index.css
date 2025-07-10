@@ -63,3 +63,36 @@
     
     
 }
+/* Action Section */
+.action-section-container{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    justify-content: space-between;
+    padding-top: 116px;
+    
+}
+.action-section-container img{
+    border-radius: 48px;
+}
+.action-section-container div h3{
+    padding-top: 62.5px;
+    font-size: 42px;
+    padding-bottom: 23px;
+}
+.action-section-container div p{
+    font-size: 24px;
+    width: 517px;
+    height: 60px;
+    padding-bottom: 23px;
+    color: rgba(37, 36, 50, 0.5);
+
+}
+.action-section-container div button{
+    width: 229px;
+    height: 48px;
+    background-color: rgb(78, 71, 255);
+    border-color: white;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
