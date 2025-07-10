@@ -265,6 +265,8 @@
 /* button effect */
 button:hover {
     background-color: yellow;
+    font-size: larger;
+    width: 300px;
 
 }
 
