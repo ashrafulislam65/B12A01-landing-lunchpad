@@ -1,36 +1,40 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
+
 /* googles fonts */
 .inter-font {
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 900;
-  font-style: normal;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
 }
 
 .raleway-font {
-  font-family: "Raleway", sans-serif;
-  font-optical-sizing: auto;
-  font-weight:700;
-  font-style: normal;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
+
 /* nav style */
-.nav-style{
+.nav-style {
     display: flex;
     padding-left: 150px;
     padding-top: 50px;
     justify-content: space-between;
     padding-right: 150px;
     padding-bottom: 50px;
-    
+
 }
-.nav-style h3{
+
+.nav-style h3 {
     font-size: 34px;
     color: rgb(78, 71, 255);
 }
-.nav-style button{
+
+.nav-style button {
     width: 132px;
     height: 48px;
     color: rgb(255, 255, 255);
@@ -38,49 +42,57 @@
     border-color: white;
     border-radius: 10px;
 }
-.hero-container{
+
+.hero-container {
     background-image: url(../Assets/Hero-bg.png);
 }
-.banner-container{
+
+.banner-container {
     text-align: center;
     padding-top: 158px;
     padding-bottom: 152px;
 }
-.banner-container h1{
+
+.banner-container h1 {
     font-size: 65px;
     padding-bottom: 37px;
     padding-left: 267.5px;
     padding-right: 267.5px;
     color: rgb(37, 36, 50);
 }
-.banner-container button{
+
+.banner-container button {
     border-radius: 10px;
     background-color: rgb(78, 71, 255);
     height: 48px;
     width: 174px;
     border-color: white;
     color: rgb(255, 255, 255);
-    
-    
+
+
 }
+
 /* Action Section */
-.action-section-container{
+.action-section-container {
     display: flex;
     padding-left: 150px;
     padding-right: 150px;
     justify-content: space-between;
     padding-top: 116px;
-    
+
 }
-.action-section-container img{
+
+.action-section-container img {
     border-radius: 48px;
 }
-.action-section-container div h3{
+
+.action-section-container div h3 {
     padding-top: 62.5px;
     font-size: 42px;
     padding-bottom: 23px;
 }
-.action-section-container div p{
+
+.action-section-container div p {
     font-size: 24px;
     width: 517px;
     height: 60px;
@@ -88,11 +100,49 @@
     color: rgba(37, 36, 50, 0.5);
 
 }
-.action-section-container div button{
+
+.action-section-container div button {
     width: 229px;
     height: 48px;
     background-color: rgb(78, 71, 255);
     border-color: white;
     border-radius: 10px;
     color: rgb(255, 255, 255);
+}
+
+/* productive user section */
+.productive-user-container {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 116px;
+    background-color: rgba(78, 71, 255, 0.1);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 24px;
+    
+}
+.p-user-title{
+    font-size: 38px;
+    color: rgb(37, 36, 50);
+}
+
+.productive-user-container-div {
+    
+    padding-left: 152px;
+    padding-right: 152px;
+    padding-top: 40px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.productive-user-container-div h1{
+    font-size: 80px;
+    color: rgb(78, 71, 255);
+
+}
+.productive-user-container div p{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+
 }
